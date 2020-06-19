@@ -43,7 +43,7 @@
               </td>
           </tr>
           <tr>
-              <td width="50%" height="50%"><img src="jenkins.svg"></td>
+              <td width="50%" height="50%"><img src="jenkins.png"></td>
               <td style="vertical-align: top;"><strong>Jenkins</strong> Build great things at any scale<br/>
               The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating
               any project.
