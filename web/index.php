@@ -20,7 +20,7 @@
               </td>
           </tr>
           <tr>
-              <td width="50%" height="50%"><img src="vagrant.svg"></td>
+              <td width="50%" height="50%"><img src="vagrant.png"></td>
               <td style="vertical-align: top;"><strong>Vagrant</strong> - Development Environments Made Easy<br/>
               Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow
               and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes
