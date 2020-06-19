@@ -6,7 +6,7 @@
   <div align="center">
       <table>
           <tr>
-              <td width="50%"><img src="vbox_gradient.png"><img src="vbox_logodown.png"></td>
+              <td width="50%" height="50%"><img src="vbox_gradient.png"><img src="vbox_logodown.png"></td>
               <td style="vertical-align: top;"><strong>VirtualBox</strong> is a powerful x86 and AMD64/Intel64 virtualization product for
               enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise
               customers, it is also the only professional solution that is freely available as Open Source Software under the terms of
@@ -20,7 +20,7 @@
               </td>
           </tr>
           <tr>
-              <td width="50%"><img src="vagrant.svg"></td>
+              <td width="50%" height="50%"><img src="vagrant.svg"></td>
               <td style="vertical-align: top;"><strong>Vagrant</strong> - Development Environments Made Easy<br/>
               Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow
               and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes
@@ -28,7 +28,7 @@
               </td>
               </tr>
           <tr>
-              <td width="50%"><img src="docker.jpg"></td>
+              <td width="50%" height="50%"><img src="docker.jpg"></td>
               <td style="vertical-align: top;"><strong>Docker</strong>
               Developing apps today requires so much more than writing code. Multiple languages, frameworks, architectures, and
               discontinuous interfaces between tools for each lifecycle stage creates enormous complexity. Docker simplifies and
@@ -37,13 +37,13 @@
               </td>
           </tr>
           <tr>
-              <td width="50%"><img src="ansible-redhat.png"></td>
+              <td width="50%" height="50%"><img src="ansible-redhat.png"></td>
               <td style="vertical-align: top;"><strong>Ansible</strong> by RedHat<br/>
               The enterprise solution for building and operating automation at scale
               </td>
           </tr>
           <tr>
-              <td width="50%"><img src="jenkins.svg"></td>
+              <td width="50%" height="50%"><img src="jenkins.svg"></td>
               <td style="vertical-align: top;"><strong>Jenkins</strong> Build great things at any scale<br/>
               The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating
               any project.
